@@ -93,7 +93,7 @@ const JobMarketPage = () => {
                 <SelectValue placeholder="All Industries" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="">All Industries</SelectItem>
+                <SelectItem value="all">All Industries</SelectItem>
                 {data && data.industries && data.industries.map(industry => (
                   <SelectItem key={industry} value={industry}>{industry}</SelectItem>
                 ))}
