@@ -57,7 +57,7 @@ const SalaryPage = () => {
                 <SelectValue placeholder="All Roles" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="">All Roles</SelectItem>
+                <SelectItem value="all">All Roles</SelectItem>
                 {data && data.roles && data.roles.map(role => (
                   <SelectItem key={role} value={role}>{role}</SelectItem>
                 ))}
