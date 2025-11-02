@@ -8,7 +8,7 @@ const API = `${BACKEND_URL}/api`;
 
 const SalaryPage = () => {
   const [data, setData] = useState(null);
-  const [filters, setFilters] = useState({ role: '', region: '' });
+  const [filters, setFilters] = useState({ role: 'all', region: 'all' });
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
