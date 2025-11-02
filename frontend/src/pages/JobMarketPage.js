@@ -9,9 +9,9 @@ const API = `${BACKEND_URL}/api`;
 const JobMarketPage = () => {
   const [data, setData] = useState(null);
   const [filters, setFilters] = useState({
-    role: '',
-    industry: '',
-    region: ''
+    role: 'all',
+    industry: 'all',
+    region: 'all'
   });
   const [isLoading, setIsLoading] = useState(true);
 
