@@ -19,8 +19,8 @@ const SalaryPage = () => {
     setIsLoading(true);
     try {
       const params = new URLSearchParams();
-      if (filters.role) params.append('role', filters.role);
-      if (filters.region) params.append('region', filters.region);
+      if (filters.role && filters.role !== 'all') params.append('role', filters.role);
+      if (filters.region && filters.region !== 'all') params.append('region', filters.region);
 
       const response = await axios.get(`${API}/data/salary?${params.toString()}`);
       setData(response.data);
