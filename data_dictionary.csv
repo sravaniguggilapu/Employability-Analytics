@@ -1,0 +1,12 @@
+Column_Name,Data_Type,Description,Example_Values,Range
+ID,String (UUID),Unique identifier for each job posting record,a1b2c3d4-e5f6-7890-abcd-ef1234567890,N/A
+Role,Categorical,Job position title,"Data Scientist, ML Engineer, Data Analyst",10 unique roles
+Region,Categorical,U.S. geographic region,"Northeast, Midwest, South, West",4 regions
+Industry,Categorical,Business sector,"Tech, Finance, Healthcare, Retail, Manufacturing",5 industries
+Date,Date (YYYY-MM-DD),Job posting date,"2023-05-15, 2024-08-22",2020-01-01 to 2025-12-31
+Salary_USD,Integer,Annual salary in US Dollars,"155000, 82500, 145000","$60,000 - $220,000"
+Skills,Text (comma-separated),Required technical and soft skills,"Python, SQL, AWS, Leadership",3-6 skills per record from 16 total
+Demand_Score,Integer,Market demand score for skills,"75, 82, 68",40 - 100
+Supply_Score,Integer,Available talent supply score,"62, 58, 71",30 - 95
+Gap,Integer,Skill gap (Demand - Supply),"13, -5, 24",-30 to +60
+Job_Postings,Integer,Number of similar job postings,"25, 18, 42",5 - 50

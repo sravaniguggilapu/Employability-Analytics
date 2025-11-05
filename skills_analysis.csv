@@ -1,0 +1,17 @@
+Skill,Avg_Demand,Avg_Supply,Gap,Severity,Job_Postings_Count
+AWS,70.71,62.47,8.24,Low,421
+Azure,70.32,61.56,8.76,Low,454
+Communication,70.88,61.72,9.16,Low,437
+Deep Learning,69.59,60.9,8.69,Low,422
+Docker,68.89,63.63,5.27,Low,406
+Excel,70.4,62.6,7.8,Low,423
+GCP,70.16,62.0,8.16,Low,401
+Kubernetes,68.76,62.76,6.0,Low,417
+Leadership,69.66,61.66,8.0,Low,429
+Machine Learning,71.4,61.34,10.06,Medium,420
+Node.js,70.34,63.05,7.29,Low,412
+Python,70.57,61.98,8.59,Low,415
+React,68.58,63.15,5.44,Low,413
+SQL,70.83,61.24,9.59,Low,418
+Spark,70.28,61.76,8.52,Low,422
+Tableau,70.35,60.88,9.47,Low,427
