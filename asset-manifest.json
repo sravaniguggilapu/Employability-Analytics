@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Employability-Analytics/static/css/main.6972b642.css",
-    "main.js": "/Employability-Analytics/static/js/main.b72cf813.js",
+    "main.js": "/Employability-Analytics/static/js/main.8a7b1eab.js",
     "index.html": "/Employability-Analytics/index.html",
     "main.6972b642.css.map": "/Employability-Analytics/static/css/main.6972b642.css.map",
-    "main.b72cf813.js.map": "/Employability-Analytics/static/js/main.b72cf813.js.map"
+    "main.8a7b1eab.js.map": "/Employability-Analytics/static/js/main.8a7b1eab.js.map"
   },
   "entrypoints": [
     "static/css/main.6972b642.css",
-    "static/js/main.b72cf813.js"
+    "static/js/main.8a7b1eab.js"
   ]
 }
