@@ -1,17 +1,17 @@
 Skill,Avg_Demand,Avg_Supply,Gap,Severity,Job_Postings_Count
-AWS,70.71,62.47,8.24,Low,421
-Azure,70.32,61.56,8.76,Low,454
-Communication,70.88,61.72,9.16,Low,437
-Deep Learning,69.59,60.9,8.69,Low,422
-Docker,68.89,63.63,5.27,Low,406
-Excel,70.4,62.6,7.8,Low,423
-GCP,70.16,62.0,8.16,Low,401
-Kubernetes,68.76,62.76,6.0,Low,417
-Leadership,69.66,61.66,8.0,Low,429
-Machine Learning,71.4,61.34,10.06,Medium,420
-Node.js,70.34,63.05,7.29,Low,412
-Python,70.57,61.98,8.59,Low,415
-React,68.58,63.15,5.44,Low,413
-SQL,70.83,61.24,9.59,Low,418
-Spark,70.28,61.76,8.52,Low,422
-Tableau,70.35,60.88,9.47,Low,427
+AWS,69.92,63.5,6.42,Low,449
+Azure,70.45,62.28,8.16,Low,415
+Communication,69.49,64.62,4.87,Low,423
+Deep Learning,69.58,62.29,7.3,Low,412
+Docker,70.69,62.7,7.99,Low,417
+Excel,69.47,64.82,4.65,Low,429
+GCP,68.51,62.82,5.7,Low,407
+Kubernetes,70.16,62.45,7.71,Low,436
+Leadership,69.97,63.64,6.33,Low,430
+Machine Learning,70.91,61.59,9.32,Low,435
+Node.js,69.87,63.31,6.55,Low,429
+Python,70.24,64.1,6.14,Low,415
+React,70.48,63.98,6.5,Low,459
+SQL,71.01,63.28,7.74,Low,423
+Spark,69.31,61.75,7.56,Low,416
+Tableau,70.15,61.81,8.34,Low,443
